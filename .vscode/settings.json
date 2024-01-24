@@ -1,0 +1,6 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "editor.fontLigatures": false,
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "solidity.formatter": "forge"
+}
